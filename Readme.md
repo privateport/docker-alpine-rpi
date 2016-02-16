@@ -16,7 +16,9 @@ apk add docker
 ```
 ##### Step Three:
 Clone this repo
+```
 git clone https://github.com/privateport/docker-alpine-rpi.git
+```
 
 ##### Step Four:
 Edit and run build script.
